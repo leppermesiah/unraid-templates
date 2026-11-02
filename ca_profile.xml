@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<CommunityApplications>
+  <Profile>Self-hosted browser games by leppermesiah. Letopis: an idle civilization simulation that grows from the Stone Age on its own server. Belot: the Bulgarian card game for 4 players, played right in the browser. Both in English and Bulgarian, no accounts, no ads. Each app links to its own GitHub repository for help and bug reports.</Profile>
+  <Icon>https://github.com/leppermesiah.png</Icon>
+  <WebPage>https://github.com/leppermesiah/unraid-templates</WebPage>
+</CommunityApplications>
