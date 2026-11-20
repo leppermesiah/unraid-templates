@@ -14,6 +14,8 @@
   <ExtraSearchTerms>idle game simulation civilization stone age chronicle</ExtraSearchTerms>
   <TemplateURL>https://raw.githubusercontent.com/leppermesiah/unraid-templates/main/templates/letopis.xml</TemplateURL>
   <Screenshot>https://raw.githubusercontent.com/leppermesiah/letopis/main/art/screenshot.png</Screenshot>
+  <Screenshot>https://raw.githubusercontent.com/leppermesiah/letopis/main/art/screenshot-2.png</Screenshot>
+  <Screenshot>https://raw.githubusercontent.com/leppermesiah/letopis/main/art/screenshot-3.png</Screenshot>
   <ReadMe>https://github.com/leppermesiah/letopis#readme</ReadMe>
   <WebUI>http://[IP]:[PORT:2222]/</WebUI>
   <Icon>https://raw.githubusercontent.com/leppermesiah/letopis/main/public/icon-512.png</Icon>
